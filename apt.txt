@@ -1,1 +1,3 @@
-vim
+default-jre
+default-jdk
+libbz2-dev
